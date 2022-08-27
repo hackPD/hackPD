@@ -1,5 +1,5 @@
 <img align="right" src="https://media.discordapp.net/attachments/803486155088592927/999414204148760576/20220719_231838.jpg" alt="THE MAN" width="350"></img>
-# Hi, I'm Phene
+# Hi, I'm Amadu
 
 I like cats, programming, and messing with electronics.
 
